@@ -1,8 +1,8 @@
-# Documentação do Projeto DIVULGA CULTURAL
+# Documentação do APP DE EVENTO
 
 ## Descrição do Projeto
 
-O aplicativo "Divulga Cultural" visa conectar pessoas aos eventos culturais que acontecem na cidade, oferecendo um serviço gratuito e acessível. O sistema permitirá que os usuários encontrem informações detalhadas sobre eventos, como data, hora, local, tema, ingressos, e mais. O objetivo é facilitar o acesso do público aos eventos e incentivar a participação em atividades culturais.
+O aplicativo visa conectar pessoas aos eventos culturais que acontecem na cidade, oferecendo um serviço gratuito e acessível. O sistema permitirá que os usuários encontrem informações detalhadas sobre eventos, como data, hora, local, tema, ingressos, e mais. O objetivo é facilitar o acesso do público aos eventos e incentivar a participação em atividades culturais.
 
 ## Tecnologias Utilizadas
 <div>
@@ -28,11 +28,6 @@ O aplicativo possui as seguintes funcionalidades:
 - **Notificações de Eventos**: Envia notificações para os usuários sobre eventos próximos de interesse.
 - **Favoritos**: Permite aos usuários salvar eventos em uma lista de favoritos para fácil acesso posterior.
 
-## Estrutura do Projeto
-
-- **`app.py`**: Contém o código-fonte principal do backend do sistema.
-- **`frontend/`**: Contém o código-fonte do aplicativo mobile.
-- **`db/`**: Contém os scripts SQL para criação das tabelas do banco de dados.
 
 ## Licença
 
